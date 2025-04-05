@@ -19,10 +19,12 @@ This project uses YOLOv5 for real-time object detection through a webcam.
 
    If you’re using a virtual environment, activate it first, then install the dependencies.
 
+   ```bash
    pip install -r requirements.txt
 
 3. Run the webcam_yolo.py script to start the webcam detection:
 
+   ```bash
    python webcam_yolo.py
 
 
